@@ -1,7 +1,8 @@
 ---
-output: 
-  html_document: 
+output:
+  html_document:
     theme: flatly
+  pdf_document: default
 ---
 
 ## The Zonation conservation prioritization framework and software - hands on workshop
@@ -20,15 +21,17 @@ studies and associated data distributed during the training session.
 
 ### Schedule
 
-| Time   | Topic                                                  | Presenter |
-|--------|--------------------------------------------------------|-----------|
-| 45 min | Intro to SCP and Zonation                              | Atte      |
-| 15 min | Intro to the UML case                                  | Atte      |
-| 2 hrs  | What's in the folders and UML steps 1 & 2              | Joona     |
-| 20 min | How Zonation works                                     | Atte      |
-| 1hrs+  | UML steps 3 & 4                                        | Joona     |
-| 20 min | Data pre-processing                                    | Joona     |
-| 1 hrs+ | UML steps 5-7                                          | Peter     |
-| 60 min | Other Z features & international examples  & questions | NN        |
-
-
+| Time          | Topic                                                 | Presenter |
+|---------------|-------------------------------------------------------|-----------|
+| 09:00 - 09:45 | Intro to SCP and Zonation                             | Atte      |
+| 09:45 - 10:00 | Intro to the UML case                                 | Atte      |
+| 10:00 - 10:15 | Break                                                 |           |
+| 10:15 - 10:35 | What's in the folders                                 | Joona     |
+| 10:35 - 12:00 | Starting UML analyses                                 | Joona     |
+| 12:00 - 13:00 | Lunch                                                 |           |
+| 13:00 - 13:20 | How Zonation works                                    | Atte      |
+| 13:20 - 14:20 | UML steps 3 & 4                                       | Joona     |
+| 14:20 - 14:40 | Data pre-processing                                   | Joona     |
+| 14:40 - 14:55 | Break                                                 |           |
+| 14:55 - 16:00 | UML steps 5-7                                         | Peter     |
+| 16:00 - 17:00 | Other Z features & international examples & questions | Atte      |
