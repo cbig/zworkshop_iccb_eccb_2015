@@ -1,10 +1,3 @@
----
-output:
-  html_document:
-    theme: flatly
-  pdf_document: default
----
-
 ## The Zonation conservation prioritization framework and software - hands on workshop
 
 This workshop introduces the Zonation software and its conceptual underpinnings, 
