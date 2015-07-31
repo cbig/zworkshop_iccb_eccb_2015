@@ -23,8 +23,8 @@ studies and associated data distributed during the training session.
 | 10:35 - 12:00 | Starting UML analyses                                 | Joona     |
 | 12:00 - 13:00 | Lunch                                                 |           |
 | 13:00 - 13:20 | How Zonation works                                    | Atte      |
-| 13:20 - 14:20 | UML steps 3 & 4                                       | Joona     |
+| 13:20 - 14:20 | Condition and connectivity                            | Peter     |
 | 14:20 - 14:40 | Data pre-processing                                   | Joona     |
 | 14:40 - 14:55 | Break                                                 |           |
-| 14:55 - 16:00 | UML steps 5-7                                         | Peter     |
+| 14:55 - 16:00 | More advanced analysis features                       | Peter     |
 | 16:00 - 17:00 | Other Z features & international examples & questions | Atte      |
